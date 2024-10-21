@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛡️ Cybersecurity specialist and red teamer focused on malware analysis and penetration testing.<br>🐍 Main language: Python; currently exploring C and C++ for malware development.<br>🌐 Experience with web technologies: HTML, CSS, JavaScript.<br>🔧 Enjoy creating small projects and self-teaching malware analysis concepts.<br>🖥️ Started programming in 2016 with Visual Basic.<br>🚀 Passionate about learning, problem-solving, and building practical security tools.
+🛡️ Cybersecurity specialist and red teamer focused on malware analysis and penetration testing.<br>🐍 Main language: Python; currently exploring C and C++ for malware development.<br>🌐 Experience with web technologies: HTML, CSS, JavaScript.<br>🔧 Enjoy creating small projects and learning red-teaming concepts.<br>🚀 Passionate about learning, problem-solving, and building practical security tools.
 
 
 ## 🌐 Socials:
